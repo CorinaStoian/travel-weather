@@ -1,0 +1,11 @@
+.Location-Map
+{
+  height: 100%;
+  width : 33.3%;
+  border-bottom-right-radius: 25px;
+}
+
+.google-map
+{
+    border-bottom-right-radius: 25px;
+}

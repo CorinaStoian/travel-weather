@@ -1,0 +1,33 @@
+
+.Body
+{
+  text-align: center;
+}
+
+.Container
+{
+  width: 100%;
+  height: 60vh;
+  margin: 10vh auto;
+  border-radius: 25px;
+  box-shadow: 0 0px 20px 0px gray;
+  background-color: #fff
+}
+
+.Header
+{
+  height: 15%;
+  background-color: #FF9800;
+  border-top-left-radius: 25px;
+  border-top-right-radius: 25px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
+
+.City-Display-Container
+{
+  height: 120%;
+  width: 100%;
+  display: inline-flex;
+}

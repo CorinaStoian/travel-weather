@@ -1,0 +1,39 @@
+{
+  "dependencies": {
+    "axios": "^0.18.0",
+    "body-parser": "^1.18.2",
+    "create-react-class": "^15.6.3",
+    "express": "^4.16.4",
+    "fbemitter": "^2.1.1",
+    "google-map-react": "^2.1.9",
+    "mysql2": "^1.6.4",
+    "pg": "^7.8.0",
+    "pg-hstore": "^2.3.2",
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3",
+    "react-scripts": "^2.1.1",
+    "sequelize": "^4.42.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "name": "weather_app",
+  "version": "1.0.0",
+  "description": "weather forecast",
+  "main": "server.js",
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC",
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}

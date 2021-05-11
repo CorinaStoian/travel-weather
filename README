@@ -1,0 +1,17 @@
+### PROJECT DESCRIPTION
+
+The purpose of our project is to create a Travel plan application which is integrated with Weather Underground. This application can be used by any person who wants to check how the weather will be at their destination, in the period when they will be there.
+
+### SPECIFICATIONS
++ The user will be able to enter their destination
++ The user will be able to select the timeframe when he or she will be travelling
++ The application will display the weather in that specific timeframe and destination
+
+### INSTRUCTIONS
++ npm install
++ npm start
++ make sure there's a mysql instance running on localhost.
++ make sure there's already a database named 'weather_app' on that instance
++ access localhost:8080/createdb
++ test GET/POST/PUT/DELETE method coresponding with REST interface 
+	ex: localhost:8080/countries
